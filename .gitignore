@@ -1,0 +1,16 @@
+__pycache__/
+build/
+dist/
+downloads/
+TrainedModels/
+result/
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/
+.pt
+.h5
+.npy
+.pyc
